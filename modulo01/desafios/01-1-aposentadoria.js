@@ -1,4 +1,4 @@
-// Cáculo de aposentadoria
+/* Cáculo de aposentadoria */
 const nome = "Raphael"
 const sexo = "M"
 const idade = 60
