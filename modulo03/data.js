@@ -3,7 +3,8 @@ module.exports = [
     id: "_LUoegLwDYE",
     title: "[NLW] Mission Start",
     duration: "120 min",
-    price: "Free"
+    price: "Free",
+    featured: true
   },
   {
     id: "-ZKQEhmZB1U",
@@ -21,7 +22,8 @@ module.exports = [
     id: "ZHThmrRp9hc",
     title: "[Discover] class 03 – The Ship's Black Box",
     duration: "219 min",
-    price: "Free"
+    price: "Free",
+    featured: true
   },
   {
     id: "hGXS8hUkoAc",
@@ -33,6 +35,7 @@ module.exports = [
     id: "43jwOhFx_0s",
     title: "[NLW] Mission Complete!",
     duration: "133 min",
-    price: "Free"
-  },
+    price: "Free",
+    featured: true
+  }
 ]
